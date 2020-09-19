@@ -1,9 +1,9 @@
 # Valentin Anikin 
 
 ## Contact Info
-Phone and telegram account (preferable): +375296415266   
-Skype account: anival199   
-Mail: anival-94@mail.ru   
+Phone and telegram account (preferable): +375296415266     
+Skype account: anival199     
+Mail: anival-94@mail.ru     
 
 ## Summary
 I believe that I have always had the ability to understand complex tasks and problems faster than others. My other qualities are attentiveness, accuracy and desire to learn new staf. That is why I believe programming will help me to realise myself. I have time and patience to become a master of programming. 
